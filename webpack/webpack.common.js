@@ -67,4 +67,6 @@ module.exports = {
 			template: helpers.root('webpack') + '/index.php'
 		})
 	]
+
+
 };
